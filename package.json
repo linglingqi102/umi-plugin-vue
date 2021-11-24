@@ -1,9 +1,9 @@
 {
-  "name": "umi-plugin-vue",
+  "name": "umi3-plugin-vue",
   "version": "0.4.0",
-  "description": "A umi@2.x plugin for Vue.js",
+  "description": "A umi@3.x plugin for Vue.js",
   "repository": {
-    "url": "ulivz/umi-plugin-vue",
+    "url": "linglingqi102/umi-plugin-vue",
     "type": "git"
   },
   "main": "index.js",
@@ -16,7 +16,7 @@
     "lint": "xo",
     "release": "release-it"
   },
-  "author": "ulivz <chl814@foxmail.com>",
+  "author": "liupeng",
   "license": "MIT",
   "jest": {
     "testEnvironment": "node"
